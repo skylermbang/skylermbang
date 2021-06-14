@@ -8,7 +8,7 @@
 
 <hr>
 
-📌 I’m currently working in 99 Web Dev Bootcamp 
+📌 I’m currently learning Web Programing in 99days Web Dev Bootcamp 
     
   Started Jun 7th 2021 - 
   
