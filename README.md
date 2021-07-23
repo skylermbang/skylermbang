@@ -14,9 +14,13 @@
   
   Projects:
   
-  https://github.com/skylermbang/dailyreport
+  Weeok 0: https://github.com/skylermbang/dailyreport
   
-  https://github.com/skylermbang/week1_team20
+  Week 1: https://github.com/skylermbang/week1_team20
+  
+  Week 6:
+  
+  Week 7: https://github.com/skylermbang/cloneproject_backend
   
   TIL :
   
