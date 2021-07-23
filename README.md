@@ -4,13 +4,13 @@
 
  📌I’m currently sutdying in Master in IT in Queensland University of Technology (QUT)
  
-  Graduating in July , 2022  (hopefuly 🤔 )
+  Expect graduation date :  July , 2022  (hopefuly 🤔 )
 
 <hr>
 
-📌 I’m currently learning Web Programing in 99days Web Dev Bootcamp 
+📌 I’m currently learning Web Programing in 99 days Web Dev Bootcamp 
     
-  Started Jun 7th 2021 - 
+  From 7th Jul 2021 - 
   
   Projects:
   
