@@ -18,7 +18,7 @@
   
   Week 1: https://github.com/skylermbang/week1_team20
   
-  Week 6:
+  Week 6: https://github.com/skylermbang/miniproject_team18_backend
   
   Week 7: https://github.com/skylermbang/cloneproject_backend
   
