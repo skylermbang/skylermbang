@@ -1,5 +1,7 @@
 ###  Skyler Minsu Bang
 
+LinkedIn
+https://www.linkedin.com/in/skyler-minsu-bang-250072148/
 <hr>
 
  📌I’m currently sutdying in Master in IT in Queensland University of Technology (QUT)
