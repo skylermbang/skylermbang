@@ -7,7 +7,10 @@ https://www.linkedin.com/in/skyler-minsu-bang-250072148/
  📌I’m currently sutdying in Master in IT in Queensland University of Technology (QUT)
  
   Expect graduation date :  July , 2022  (hopefuly 🤔 )
-
+  
+  Interested in Internet of Thing (IoT) ,  Blockchain  and Machine learning
+   
+   
 <hr>
 
 📌 I’m currently learning Web Programing in 99 days Web Dev Bootcamp 
