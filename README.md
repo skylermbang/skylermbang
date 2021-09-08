@@ -27,7 +27,8 @@ https://www.linkedin.com/in/skyler-minsu-bang-250072148/
   
   Week 7: https://github.com/skylermbang/cloneproject_backend
   
-  TIL :
+  Final project: 
+  TIL : https://github.com/Talk-Bout/Backend
   
   https://github.com/skylermbang/TIL
   
