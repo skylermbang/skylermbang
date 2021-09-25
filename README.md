@@ -27,10 +27,9 @@ https://www.linkedin.com/in/skyler-minsu-bang-250072148/
   
   Week 7: https://github.com/Talk-Bout/Backend
   
-  Final project: 
-  TIL : https://github.com/Talk-Bout/Backend
+  Final project:  https://github.com/Talk-Bout/Backend
   
-  https://github.com/skylermbang/TIL
+  TIL :https://github.com/skylermbang/TIL
   
 📌 Hmm 
 
