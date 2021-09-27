@@ -13,7 +13,7 @@ https://www.linkedin.com/in/skyler-minsu-bang-250072148/
    
 <hr>
 
-📌 I’m currently learning Web Programing in 99 days Web Dev Bootcamp 
+📌 99 days Web Dev Bootcamp 
     
   From 7th Jul 2021 - 
   
