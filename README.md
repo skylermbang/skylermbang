@@ -15,23 +15,21 @@ https://www.linkedin.com/in/skyler-minsu-bang-250072148/
 
 📌 99 days Web Dev Bootcamp 
     
-  From 7th Jul 2021 - 
+  7th July 2021 - 10th September 2021
   
   Projects:
   
-  Weeok 0: https://github.com/skylermbang/dailyreport
+  Mini Project: https://github.com/skylermbang/dailyreport
   
-  Week 1: https://github.com/skylermbang/week1_team20
+  Mini Porject2: https://github.com/skylermbang/week1_team20
   
-  Week 6: https://github.com/skylermbang/miniproject_team18_backend
+  Clone Project : https://github.com/skylermbang/miniproject_team18_backend
   
-  Week 7: https://github.com/Talk-Bout/Backend
-  
-  Final project:  https://github.com/Talk-Bout/Backend
+  Final project: https://github.com/Talk-Bout/Backend
   
   TIL :https://github.com/skylermbang/TIL
   
-📌 Hmm 
+
 
 
 
