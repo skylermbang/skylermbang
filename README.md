@@ -23,7 +23,9 @@ https://www.linkedin.com/in/skyler-minsu-bang-250072148/
   
   Mini Porject2: https://github.com/skylermbang/week1_team20
   
-  Clone Project : https://github.com/skylermbang/miniproject_team18_backend
+  Mini Proejct3 : https://github.com/skylermbang/miniproject_team18_backend
+  
+  Clone Project : https://github.com/skylermbang/cloneproject_backend
   
   Final project: https://github.com/Talk-Bout/Backend
   
