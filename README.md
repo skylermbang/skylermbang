@@ -29,7 +29,7 @@ https://www.linkedin.com/in/skyler-minsu-bang-250072148/
   
   Final project: https://github.com/Talk-Bout/Backend
   
-  TIL :https://github.com/skylermbang/TIL
+  TIL : https://skyler-world.tistory.com/
   
 
 
