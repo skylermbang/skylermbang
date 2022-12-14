@@ -4,12 +4,12 @@ LinkedIn
 https://www.linkedin.com/in/skyler-minsu-bang-250072148/
 <hr>
 
- 📌I’m currently sutdying in Master in IT in Queensland University of Technology (QUT)
+ 📌I’m currently  working as Junior Software Engineer in Gentrack. 
+
+ Trying to learn and grow.
  
-  Expect graduation date :  July , 2022  (hopefuly 🤔 )
-  
-  Interested in Internet of Thing (IoT) ,  Blockchain  and Machine learning
-   
+ 
+
    
 <hr>
 
