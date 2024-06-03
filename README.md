@@ -5,8 +5,14 @@ https://www.linkedin.com/in/skyler-minsu-bang-250072148/
 <hr>
 
  📌I’m currently  working as Junior Software Engineer in Gentrack. 
+   Energy Industry, Meter to Cash Software Company
 
- Trying to learn and grow.
+
+
+
+ <hr>
+
+   Currently learning Typescipt , React JS, Next JS, Nest JS
  
  
 
